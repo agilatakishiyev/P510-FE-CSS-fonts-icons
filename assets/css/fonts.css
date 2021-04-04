@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'AlwaysRadio';
+    src: url('../fonts/AlwaysRadio.eot');
+    src: url('../fonts/AlwaysRadio.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/AlwaysRadio.woff2') format('woff2'),
+        url('../fonts/AlwaysRadio.woff') format('woff'),
+        url('../fonts/AlwaysRadio.ttf') format('truetype'),
+        url('../fonts/AlwaysRadio.svg#AlwaysRadio') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
